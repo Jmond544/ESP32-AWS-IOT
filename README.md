@@ -1,6 +1,10 @@
 # Conexión ESP32 con AWS
 
-## 1. Cómo ejecutar:
+## Enlaces adicionales:
+
+- Notebook en Google Colab: [Enlace](https://colab.research.google.com/drive/1Clb5V8ymgrTo86_vCC9nAFpP6yE7fI9F?usp=sharing)
+
+## ¿Cómo ejecutar?:
 - Generar credenciales para un objeto en AWS IoT
 - Generar un archivo `Secrets.h` en el que se pegarán todas las credenciales:
 
